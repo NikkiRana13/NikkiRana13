@@ -7,13 +7,11 @@
 
 🤖 Former Applied AI & Product Intern at Rogers
 
-🏆 Hackathon Winner | Community Builder | Technology Enthusiast
-
 ---
 
 ## About Me
 
-I'm passionate about building technology that solves real-world problems and improves people's lives. My interests span software engineering, artificial intelligence, product development, healthcare technology, and human-centered design.
+I'm passionate about building technology that solves real-world problems and improves people's lives. My interests span software engineering, artificial intelligence, product development, and human-centered design.
 
 I enjoy working at the intersection of technology and people, combining technical problem-solving with an understanding of user needs and business impact.
 
@@ -64,49 +62,6 @@ National student-led programming competition focused on making technology educat
 - 800+ participants
 - National reach
 - Industry sponsorships and partnerships
-
-### 🤖 MentorAI
-
-AI-powered coaching platform developed during my internship at Rogers.
-
-**Highlights:**
-- Transcript analysis at scale
-- KPI generation and coaching insights
-- Built using modern AI and data platforms
-
----
-
-## Technical Skills
-
-### Languages
-
-- Python
-- Java
-- SQL
-- C++
-- JavaScript
-- HTML/CSS
-- MATLAB
-
-### Frameworks & Technologies
-
-- React
-- Node.js
-- Flask
-- Azure OpenAI
-- Databricks
-- MLflow
-- Docker
-
-### Tools
-
-- Git & GitHub
-- IntelliJ IDEA
-- VS Code
-- JMeter
-- Jira
-- Confluence
-- Figma
 
 ---
 
