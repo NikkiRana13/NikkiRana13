@@ -45,14 +45,6 @@ Supported economic development and strategic planning projects while collaborati
 
 ---
 
-## Featured Projects
-
-### 🏆 Beacon
-Healthcare-focused hackathon project designed to improve patient communication and accessibility.
-
-**Award:** Best Design & UX
-
-**Tech Stack:** Python, Flask, Arduino, Gemini API
 
 ### 🚀 #Launch (CTPC)
 
