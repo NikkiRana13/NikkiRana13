@@ -26,25 +26,6 @@ I enjoy working at the intersection of technology and people, combining technica
 
 ---
 
-## Experience
-
-### PointClickCare
-**Software Engineering Intern**
-
-Working on healthcare software used by providers across North America, contributing to the development and testing of solutions that support patient care.
-
-### Rogers Communications
-**Applied AI & Product Intern**
-
-Contributed to the development of MentorAI, an AI-powered coaching platform designed to analyze customer interactions and generate actionable insights for service representatives.
-
-### NorthGuide
-**Junior Consultant**
-
-Supported economic development and strategic planning projects while collaborating with stakeholders across multiple communities.
-
----
-
 
 ### 🚀 #Launch (CTPC)
 
