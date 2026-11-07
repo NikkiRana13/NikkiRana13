@@ -19,7 +19,7 @@ I enjoy working at the intersection of technology and people, combining technica
 
 ## Current Focus
 
-- Building software solutions in healthcare technology
+
 - Expanding my full-stack development skills
 - Exploring AI and machine learning applications
 - Growing as an engineer through hands-on projects and internships
